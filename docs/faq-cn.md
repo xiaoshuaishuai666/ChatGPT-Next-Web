@@ -15,6 +15,7 @@ Docker 版本相当于稳定版，latest Docker 总是与 latest release version
 
 ## 如何部署在 Vercel 上
 
+
 1. 注册 Github 账号，fork 该项目
 2. 注册 Vercel（需手机验证，可以用中国号码），连接你的 Github 账户
 3. Vercel 上新建项目，选择你在 Github fork 的项目，按需填写环境变量，开始部署。部署之后，你可以在有梯子的条件下，通过 vercel 提供的域名访问你的项目。
